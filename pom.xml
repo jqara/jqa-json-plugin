@@ -22,8 +22,8 @@
 
 
     <scm>
-        <connection>scm:git:git@github.com:jqassistant/jqa-json-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jqassistant/jqa-json-plugin.git</developerConnection>
+        <connection>scm:git:git@github.com:jqara/jqa-json-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:jqara/jqa-json-plugin.git</developerConnection>
         <url>https://github.com/jqassistant/jqa-json-plugin</url>
       <tag>HEAD</tag>
   </scm>
